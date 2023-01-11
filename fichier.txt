@@ -3,3 +3,5 @@ Hello world
 modification
 
 modification supplémentaire
+
+Texte en conflit
